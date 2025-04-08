@@ -17,6 +17,13 @@
       </list>
     </option>
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run"
+  }
+}]]></component>
+  <component name="TaskManager">
+=======
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
