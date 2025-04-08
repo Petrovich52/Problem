@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run"
   }
+}]]></component>
   <component name="TaskManager">
     <servers />
   </component>
